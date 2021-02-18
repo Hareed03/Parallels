@@ -1,27 +1,11 @@
 ![Image](https://i.imgur.com/5B12V0K.png)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###The Idea
+The idea for this game was created by a group of 4. It revolves around a person who accidentally causes a scientist to run into a car, making one of his gadgets go off sending both of you back in time.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Art
+![Image](https://i.imgur.com/OFquJ8e.png)
+![Image](https://i.imgur.com/oOPcbAH.png)
 
 ### Current Issues
 [View current issues and our timeline on Trello](https://trello.com/b/Ent1iZuJ/game)
